@@ -16,3 +16,9 @@ out/
 
 # Mac
 .DS_Store
+
+# Java compiled output
+*.class
+out/
+target/
+bin/
