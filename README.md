@@ -27,4 +27,4 @@ Nomor 3: Folder Arithmethic
 
 Nomor 4: Folder TypeCasting
 
-Nomor 5: Folder Operator
+Nomor 5: Folder OperatorChallenge
