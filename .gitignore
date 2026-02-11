@@ -1,0 +1,18 @@
+# Maven
+target/
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
