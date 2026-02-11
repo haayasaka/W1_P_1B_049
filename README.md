@@ -1,6 +1,8 @@
 # TUGAS TEKNIK PEMROGRAMAN (PR) SEMESTER 2
 Nama: HAFIZ FAUZAN SYAFRUDIN
+
 Kelas: 1B-D4
+
 Minggu: 1
 
 Karena aturan penamaan dalam bahasa pemrograman penulisan nama berawalan angka seperti:
